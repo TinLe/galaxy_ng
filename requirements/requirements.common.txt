@@ -10,7 +10,7 @@ aiohttp==3.6.2            # via pulpcore
 ansible-base==2.10.1      # via ansible
 ansible-builder==0.2.2    # via galaxy-importer
 ansible-lint==4.3.5       # via galaxy-importer
-ansible==2.10.0           # via ansible-lint, galaxy-importer
+ansible==2.9.20           # via ansible-lint, galaxy-importer
 async-timeout==3.0.1      # via aiohttp
 attrs==20.2.0             # via aiohttp, galaxy-importer, jsonschema
 backoff==1.10.0           # via pulpcore
