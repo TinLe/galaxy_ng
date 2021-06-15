@@ -88,7 +88,7 @@ tablib[html,ods,xls,xlsx,yaml]==2.0.0  # via django-import-export
 typing-extensions==3.7.4.3  # via aiohttp, ansible-lint, rich, yarl
 typing==3.7.4.3           # via aiodns
 uritemplate==3.0.1        # via drf-spectacular
-urllib3==1.25.10          # via requests
+urllib3==1.26.5          # via requests
 urlman==1.3.0             # via django-lifecycle
 webencodings==0.5.1       # via bleach
 whitenoise==5.2.0         # via pulpcore
